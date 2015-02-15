@@ -1,0 +1,13 @@
+{
+  "name": "wedding-slideshow",
+  "description": "Application for showing wedding pictures collected by the guests during the party</a>",
+  "version": "0.0.1",
+  "homepage": "https://github.com/stellamargonar/wedding-slideshow",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "1.2.x",
+    "angular-route": "1.2.x",
+    "bootstrap": "~3.1.1"
+  }
+}
